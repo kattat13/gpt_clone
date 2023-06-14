@@ -1,11 +1,13 @@
 # ChatGPT clone
 The repository contains my version of a clone of ChatGPT application implemented using Python (Flask), HTML and CSS (Bootstrap).
+
 It's powered by OpenAI's __GPT-3.5__ model for conversational purposes and __DALL-E__ for creating images and art.
 
-Demo available at: *link incoming*
+### Demo available at: *link incoming*
 
 ## Usage
-Just ask the chatbot anything you like in the textarea.<BR>
+Just ask the chatbot anything you like in the textarea.
+
 If you want to generate an image, simply type `img:` before describing your idea, for example `img: a massive hamster flying in the outer space`.
 
 ## Important note
