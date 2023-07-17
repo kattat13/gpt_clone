@@ -32,7 +32,7 @@ jobs:
         
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
       - name: Run Flask app
-        run: flask --app main run
+        run: python main.py
 
       - name: Upload artifact for deployment jobs
         uses: actions/upload-artifact@v2
